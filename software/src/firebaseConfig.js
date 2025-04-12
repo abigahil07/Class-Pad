@@ -4,20 +4,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-
-    apiKey: "AIzaSyC6ZGbL2IqjLkMkaDVsnc7FFbzzcwHpEuU",
-
-    authDomain: "classpad-d631c.firebaseapp.com",
-
-    projectId: "classpad-d631c",
-
-    storageBucket: "classpad-d631c.firebasestorage.app",
-
-    messagingSenderId: "848558944581",
-
-    appId: "1:848558944581:web:2c6909cb8aed86554bce2c"
-
-  };
+  apiKey: "AIzaSyBVR9FFmvUoPDrj-Forbvs56JSN_63h8Hc",
+  authDomain: "classpad-eb566.firebaseapp.com",
+  projectId: "classpad-eb566",
+  storageBucket: "classpad-eb566.firebasestorage.app",
+  messagingSenderId: "491293655554",
+  appId: "1:491293655554:web:db9626bc3a4eae00c79d1b"
+};
 
 
 // Initialize Firebase
